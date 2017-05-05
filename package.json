@@ -1,0 +1,26 @@
+{
+  "name": "ninjaquiz",
+  "version": "1.0.0",
+  "description": "Ninja Quiz game developed with MVC Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ninja",
+    "quiz",
+    "quiz",
+    "ninja",
+    "hanan",
+    "mufti",
+    "super",
+    "heroes"
+  ],
+  "author": "Hanan Mufti",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}
