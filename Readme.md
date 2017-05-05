@@ -1,7 +1,7 @@
 Quiz Ninja Game
 ===============
 
-This game is developed in an object-oriented way with the MVC Design Pattern. It was a lesson for me from sitepoint.
+This game is developed in object-oriented way with MVC Design Pattern. A lesson from sitepoint.
 
 ## How to start?
 
